@@ -6,7 +6,7 @@
 /*   By: tlegendr <tlegendr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/04 20:06:06 by tlegendr          #+#    #+#             */
-/*   Updated: 2024/05/04 23:32:27 by tlegendr         ###   ########.fr       */
+/*   Updated: 2024/05/04 23:40:08 by tlegendr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,8 +16,6 @@
 # include <math.h>
 # include <mlx.h>
 # include <unistd.h>
-# include <fcntl.h>
-# include <stdio.h>
 # include <stdlib.h>
 # include <X11/X.h>
 # include <X11/keysym.h>
